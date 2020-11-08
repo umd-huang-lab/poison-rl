@@ -1,0 +1,2001 @@
+2020-10-01 20:43:56,245 - INFO - Namespace(aim='reward', attack=False, compute=False, device='cpu', env='CartPole-v0', episodes=1000, frac=1.0, learner='vpg', loadfile='', logdir='logs/', lr=0.001, maxiter=10, moddir='models/', norm='l2', radius=0.5, radius_a=0.05, radius_r=0.5, radius_s=0.5, resdir='results/', run=0, steps=300, stepsize=0.05, type='wb')
+2020-10-01 20:43:56,257 - INFO - episode: 0, total reward: 16.0
+
+2020-10-01 20:43:56,264 - INFO - episode: 1, total reward: 16.0
+
+2020-10-01 20:43:56,292 - INFO - episode: 2, total reward: 73.0
+
+2020-10-01 20:43:56,299 - INFO - episode: 3, total reward: 13.0
+
+2020-10-01 20:43:56,306 - INFO - episode: 4, total reward: 17.0
+
+2020-10-01 20:43:56,311 - INFO - episode: 5, total reward: 10.0
+
+2020-10-01 20:43:56,319 - INFO - episode: 6, total reward: 17.0
+
+2020-10-01 20:43:56,328 - INFO - episode: 7, total reward: 22.0
+
+2020-10-01 20:43:56,335 - INFO - episode: 8, total reward: 17.0
+
+2020-10-01 20:43:56,358 - INFO - episode: 9, total reward: 60.0
+
+2020-10-01 20:43:56,364 - INFO - episode: 10, total reward: 14.0
+
+2020-10-01 20:43:56,370 - INFO - episode: 11, total reward: 12.0
+
+2020-10-01 20:43:56,375 - INFO - episode: 12, total reward: 11.0
+
+2020-10-01 20:43:56,381 - INFO - episode: 13, total reward: 14.0
+
+2020-10-01 20:43:56,396 - INFO - episode: 14, total reward: 40.0
+
+2020-10-01 20:43:56,408 - INFO - episode: 15, total reward: 37.0
+
+2020-10-01 20:43:56,419 - INFO - episode: 16, total reward: 25.0
+
+2020-10-01 20:43:56,428 - INFO - episode: 17, total reward: 21.0
+
+2020-10-01 20:43:56,435 - INFO - episode: 18, total reward: 17.0
+
+2020-10-01 20:43:56,452 - INFO - episode: 19, total reward: 43.0
+
+2020-10-01 20:43:56,470 - INFO - episode: 20, total reward: 48.0
+
+2020-10-01 20:43:56,490 - INFO - episode: 21, total reward: 52.0
+
+2020-10-01 20:43:56,502 - INFO - episode: 22, total reward: 38.0
+
+2020-10-01 20:43:56,512 - INFO - episode: 23, total reward: 24.0
+
+2020-10-01 20:43:56,520 - INFO - episode: 24, total reward: 20.0
+
+2020-10-01 20:43:56,536 - INFO - episode: 25, total reward: 40.0
+
+2020-10-01 20:43:56,551 - INFO - episode: 26, total reward: 33.0
+
+2020-10-01 20:43:56,559 - INFO - episode: 27, total reward: 20.0
+
+2020-10-01 20:43:56,567 - INFO - episode: 28, total reward: 19.0
+
+2020-10-01 20:43:56,579 - INFO - episode: 29, total reward: 30.0
+
+2020-10-01 20:43:56,588 - INFO - episode: 30, total reward: 22.0
+
+2020-10-01 20:43:56,595 - INFO - episode: 31, total reward: 15.0
+
+2020-10-01 20:43:56,607 - INFO - episode: 32, total reward: 28.0
+
+2020-10-01 20:43:56,614 - INFO - episode: 33, total reward: 13.0
+
+2020-10-01 20:43:56,623 - INFO - episode: 34, total reward: 22.0
+
+2020-10-01 20:43:56,632 - INFO - episode: 35, total reward: 20.0
+
+2020-10-01 20:43:56,656 - INFO - episode: 36, total reward: 62.0
+
+2020-10-01 20:43:56,671 - INFO - episode: 37, total reward: 36.0
+
+2020-10-01 20:43:56,690 - INFO - episode: 38, total reward: 42.0
+
+2020-10-01 20:43:56,698 - INFO - episode: 39, total reward: 15.0
+
+2020-10-01 20:43:56,720 - INFO - episode: 40, total reward: 52.0
+
+2020-10-01 20:43:56,735 - INFO - episode: 41, total reward: 40.0
+
+2020-10-01 20:43:56,743 - INFO - episode: 42, total reward: 19.0
+
+2020-10-01 20:43:56,751 - INFO - episode: 43, total reward: 20.0
+
+2020-10-01 20:43:56,764 - INFO - episode: 44, total reward: 31.0
+
+2020-10-01 20:43:56,776 - INFO - episode: 45, total reward: 34.0
+
+2020-10-01 20:43:56,785 - INFO - episode: 46, total reward: 23.0
+
+2020-10-01 20:43:56,807 - INFO - episode: 47, total reward: 68.0
+
+2020-10-01 20:43:56,817 - INFO - episode: 48, total reward: 25.0
+
+2020-10-01 20:43:56,833 - INFO - episode: 49, total reward: 40.0
+
+2020-10-01 20:43:56,844 - INFO - episode: 50, total reward: 24.0
+
+2020-10-01 20:43:56,856 - INFO - episode: 51, total reward: 25.0
+
+2020-10-01 20:43:56,872 - INFO - episode: 52, total reward: 40.0
+
+2020-10-01 20:43:56,881 - INFO - episode: 53, total reward: 19.0
+
+2020-10-01 20:43:56,895 - INFO - episode: 54, total reward: 39.0
+
+2020-10-01 20:43:56,910 - INFO - episode: 55, total reward: 38.0
+
+2020-10-01 20:43:56,921 - INFO - episode: 56, total reward: 26.0
+
+2020-10-01 20:43:56,933 - INFO - episode: 57, total reward: 31.0
+
+2020-10-01 20:43:56,944 - INFO - episode: 58, total reward: 28.0
+
+2020-10-01 20:43:56,955 - INFO - episode: 59, total reward: 28.0
+
+2020-10-01 20:43:56,979 - INFO - episode: 60, total reward: 54.0
+
+2020-10-01 20:43:57,010 - INFO - episode: 61, total reward: 78.0
+
+2020-10-01 20:43:57,036 - INFO - episode: 62, total reward: 65.0
+
+2020-10-01 20:43:57,049 - INFO - episode: 63, total reward: 29.0
+
+2020-10-01 20:43:57,070 - INFO - episode: 64, total reward: 51.0
+
+2020-10-01 20:43:57,081 - INFO - episode: 65, total reward: 25.0
+
+2020-10-01 20:43:57,103 - INFO - episode: 66, total reward: 55.0
+
+2020-10-01 20:43:57,123 - INFO - episode: 67, total reward: 53.0
+
+2020-10-01 20:43:57,144 - INFO - episode: 68, total reward: 55.0
+
+2020-10-01 20:43:57,158 - INFO - episode: 69, total reward: 37.0
+
+2020-10-01 20:43:57,189 - INFO - episode: 70, total reward: 84.0
+
+2020-10-01 20:43:57,201 - INFO - episode: 71, total reward: 28.0
+
+2020-10-01 20:43:57,211 - INFO - episode: 72, total reward: 24.0
+
+2020-10-01 20:43:57,218 - INFO - episode: 73, total reward: 15.0
+
+2020-10-01 20:43:57,228 - INFO - episode: 74, total reward: 22.0
+
+2020-10-01 20:43:57,245 - INFO - episode: 75, total reward: 42.0
+
+2020-10-01 20:43:57,258 - INFO - episode: 76, total reward: 30.0
+
+2020-10-01 20:43:57,279 - INFO - episode: 77, total reward: 58.0
+
+2020-10-01 20:43:57,294 - INFO - episode: 78, total reward: 39.0
+
+2020-10-01 20:43:57,300 - INFO - episode: 79, total reward: 16.0
+
+2020-10-01 20:43:57,316 - INFO - episode: 80, total reward: 44.0
+
+2020-10-01 20:43:57,325 - INFO - episode: 81, total reward: 22.0
+
+2020-10-01 20:43:57,356 - INFO - episode: 82, total reward: 86.0
+
+2020-10-01 20:43:57,368 - INFO - episode: 83, total reward: 32.0
+
+2020-10-01 20:43:57,375 - INFO - episode: 84, total reward: 15.0
+
+2020-10-01 20:43:57,395 - INFO - episode: 85, total reward: 58.0
+
+2020-10-01 20:43:57,428 - INFO - episode: 86, total reward: 88.0
+
+2020-10-01 20:43:57,450 - INFO - episode: 87, total reward: 60.0
+
+2020-10-01 20:43:57,459 - INFO - episode: 88, total reward: 27.0
+
+2020-10-01 20:43:57,468 - INFO - episode: 89, total reward: 23.0
+
+2020-10-01 20:43:57,496 - INFO - episode: 90, total reward: 84.0
+
+2020-10-01 20:43:57,526 - INFO - episode: 91, total reward: 86.0
+
+2020-10-01 20:43:57,545 - INFO - episode: 92, total reward: 53.0
+
+2020-10-01 20:43:57,557 - INFO - episode: 93, total reward: 29.0
+
+2020-10-01 20:43:57,579 - INFO - episode: 94, total reward: 63.0
+
+2020-10-01 20:43:57,591 - INFO - episode: 95, total reward: 32.0
+
+2020-10-01 20:43:57,614 - INFO - episode: 96, total reward: 68.0
+
+2020-10-01 20:43:57,623 - INFO - episode: 97, total reward: 22.0
+
+2020-10-01 20:43:57,637 - INFO - episode: 98, total reward: 38.0
+
+2020-10-01 20:43:57,652 - INFO - episode: 99, total reward: 41.0
+
+2020-10-01 20:43:57,688 - INFO - episode: 100, total reward: 103.0
+
+2020-10-01 20:43:57,697 - INFO - episode: 101, total reward: 22.0
+
+2020-10-01 20:43:57,719 - INFO - episode: 102, total reward: 62.0
+
+2020-10-01 20:43:57,757 - INFO - episode: 103, total reward: 107.0
+
+2020-10-01 20:43:57,792 - INFO - episode: 104, total reward: 106.0
+
+2020-10-01 20:43:57,838 - INFO - episode: 105, total reward: 121.0
+
+2020-10-01 20:43:57,853 - INFO - episode: 106, total reward: 42.0
+
+2020-10-01 20:43:57,863 - INFO - episode: 107, total reward: 28.0
+
+2020-10-01 20:43:57,891 - INFO - episode: 108, total reward: 81.0
+
+2020-10-01 20:43:57,917 - INFO - episode: 109, total reward: 74.0
+
+2020-10-01 20:43:57,939 - INFO - episode: 110, total reward: 62.0
+
+2020-10-01 20:43:57,968 - INFO - episode: 111, total reward: 84.0
+
+2020-10-01 20:43:58,031 - INFO - episode: 112, total reward: 180.0
+
+2020-10-01 20:43:58,058 - INFO - episode: 113, total reward: 76.0
+
+2020-10-01 20:43:58,100 - INFO - episode: 114, total reward: 109.0
+
+2020-10-01 20:43:58,143 - INFO - episode: 115, total reward: 92.0
+
+2020-10-01 20:43:58,185 - INFO - episode: 116, total reward: 105.0
+
+2020-10-01 20:43:58,194 - INFO - episode: 117, total reward: 20.0
+
+2020-10-01 20:43:58,251 - INFO - episode: 118, total reward: 143.0
+
+2020-10-01 20:43:58,293 - INFO - episode: 119, total reward: 113.0
+
+2020-10-01 20:43:58,349 - INFO - episode: 120, total reward: 168.0
+
+2020-10-01 20:43:58,418 - INFO - episode: 121, total reward: 200.0
+
+2020-10-01 20:43:58,487 - INFO - episode: 122, total reward: 194.0
+
+2020-10-01 20:43:58,512 - INFO - episode: 123, total reward: 72.0
+
+2020-10-01 20:43:58,578 - INFO - episode: 124, total reward: 200.0
+
+2020-10-01 20:43:58,616 - INFO - episode: 125, total reward: 112.0
+
+2020-10-01 20:43:58,682 - INFO - episode: 126, total reward: 190.0
+
+2020-10-01 20:43:58,719 - INFO - episode: 127, total reward: 112.0
+
+2020-10-01 20:43:58,766 - INFO - episode: 128, total reward: 133.0
+
+2020-10-01 20:43:58,825 - INFO - episode: 129, total reward: 166.0
+
+2020-10-01 20:43:58,854 - INFO - episode: 130, total reward: 82.0
+
+2020-10-01 20:43:58,881 - INFO - episode: 131, total reward: 75.0
+
+2020-10-01 20:43:58,913 - INFO - episode: 132, total reward: 87.0
+
+2020-10-01 20:43:58,957 - INFO - episode: 133, total reward: 125.0
+
+2020-10-01 20:43:58,998 - INFO - episode: 134, total reward: 121.0
+
+2020-10-01 20:43:59,068 - INFO - episode: 135, total reward: 200.0
+
+2020-10-01 20:43:59,104 - INFO - episode: 136, total reward: 103.0
+
+2020-10-01 20:43:59,146 - INFO - episode: 137, total reward: 119.0
+
+2020-10-01 20:43:59,174 - INFO - episode: 138, total reward: 79.0
+
+2020-10-01 20:43:59,202 - INFO - episode: 139, total reward: 78.0
+
+2020-10-01 20:43:59,222 - INFO - episode: 140, total reward: 57.0
+
+2020-10-01 20:43:59,245 - INFO - episode: 141, total reward: 65.0
+
+2020-10-01 20:43:59,257 - INFO - episode: 142, total reward: 33.0
+
+2020-10-01 20:43:59,292 - INFO - episode: 143, total reward: 99.0
+
+2020-10-01 20:43:59,334 - INFO - episode: 144, total reward: 121.0
+
+2020-10-01 20:43:59,346 - INFO - episode: 145, total reward: 34.0
+
+2020-10-01 20:43:59,384 - INFO - episode: 146, total reward: 109.0
+
+2020-10-01 20:43:59,428 - INFO - episode: 147, total reward: 126.0
+
+2020-10-01 20:43:59,460 - INFO - episode: 148, total reward: 91.0
+
+2020-10-01 20:43:59,502 - INFO - episode: 149, total reward: 118.0
+
+2020-10-01 20:43:59,541 - INFO - episode: 150, total reward: 114.0
+
+2020-10-01 20:43:59,590 - INFO - episode: 151, total reward: 140.0
+
+2020-10-01 20:43:59,634 - INFO - episode: 152, total reward: 132.0
+
+2020-10-01 20:43:59,678 - INFO - episode: 153, total reward: 128.0
+
+2020-10-01 20:43:59,694 - INFO - episode: 154, total reward: 40.0
+
+2020-10-01 20:43:59,743 - INFO - episode: 155, total reward: 148.0
+
+2020-10-01 20:43:59,795 - INFO - episode: 156, total reward: 156.0
+
+2020-10-01 20:43:59,847 - INFO - episode: 157, total reward: 150.0
+
+2020-10-01 20:43:59,895 - INFO - episode: 158, total reward: 138.0
+
+2020-10-01 20:43:59,951 - INFO - episode: 159, total reward: 162.0
+
+2020-10-01 20:44:00,005 - INFO - episode: 160, total reward: 153.0
+
+2020-10-01 20:44:00,072 - INFO - episode: 161, total reward: 190.0
+
+2020-10-01 20:44:00,124 - INFO - episode: 162, total reward: 149.0
+
+2020-10-01 20:44:00,183 - INFO - episode: 163, total reward: 164.0
+
+2020-10-01 20:44:00,246 - INFO - episode: 164, total reward: 188.0
+
+2020-10-01 20:44:00,304 - INFO - episode: 165, total reward: 163.0
+
+2020-10-01 20:44:00,353 - INFO - episode: 166, total reward: 134.0
+
+2020-10-01 20:44:00,396 - INFO - episode: 167, total reward: 114.0
+
+2020-10-01 20:44:00,406 - INFO - episode: 168, total reward: 25.0
+
+2020-10-01 20:44:00,443 - INFO - episode: 169, total reward: 102.0
+
+2020-10-01 20:44:00,480 - INFO - episode: 170, total reward: 112.0
+
+2020-10-01 20:44:00,530 - INFO - episode: 171, total reward: 143.0
+
+2020-10-01 20:44:00,545 - INFO - episode: 172, total reward: 39.0
+
+2020-10-01 20:44:00,580 - INFO - episode: 173, total reward: 103.0
+
+2020-10-01 20:44:00,590 - INFO - episode: 174, total reward: 25.0
+
+2020-10-01 20:44:00,598 - INFO - episode: 175, total reward: 26.0
+
+2020-10-01 20:44:00,613 - INFO - episode: 176, total reward: 45.0
+
+2020-10-01 20:44:00,626 - INFO - episode: 177, total reward: 37.0
+
+2020-10-01 20:44:00,658 - INFO - episode: 178, total reward: 89.0
+
+2020-10-01 20:44:00,694 - INFO - episode: 179, total reward: 100.0
+
+2020-10-01 20:44:00,704 - INFO - episode: 180, total reward: 27.0
+
+2020-10-01 20:44:00,743 - INFO - episode: 181, total reward: 112.0
+
+2020-10-01 20:44:00,754 - INFO - episode: 182, total reward: 29.0
+
+2020-10-01 20:44:00,789 - INFO - episode: 183, total reward: 96.0
+
+2020-10-01 20:44:00,800 - INFO - episode: 184, total reward: 30.0
+
+2020-10-01 20:44:00,841 - INFO - episode: 185, total reward: 117.0
+
+2020-10-01 20:44:00,851 - INFO - episode: 186, total reward: 27.0
+
+2020-10-01 20:44:00,888 - INFO - episode: 187, total reward: 107.0
+
+2020-10-01 20:44:00,900 - INFO - episode: 188, total reward: 31.0
+
+2020-10-01 20:44:00,950 - INFO - episode: 189, total reward: 146.0
+
+2020-10-01 20:44:00,964 - INFO - episode: 190, total reward: 37.0
+
+2020-10-01 20:44:00,998 - INFO - episode: 191, total reward: 99.0
+
+2020-10-01 20:44:01,046 - INFO - episode: 192, total reward: 144.0
+
+2020-10-01 20:44:01,089 - INFO - episode: 193, total reward: 123.0
+
+2020-10-01 20:44:01,128 - INFO - episode: 194, total reward: 114.0
+
+2020-10-01 20:44:01,138 - INFO - episode: 195, total reward: 25.0
+
+2020-10-01 20:44:01,168 - INFO - episode: 196, total reward: 93.0
+
+2020-10-01 20:44:01,217 - INFO - episode: 197, total reward: 143.0
+
+2020-10-01 20:44:01,263 - INFO - episode: 198, total reward: 129.0
+
+2020-10-01 20:44:01,304 - INFO - episode: 199, total reward: 124.0
+
+2020-10-01 20:44:01,351 - INFO - episode: 200, total reward: 131.0
+
+2020-10-01 20:44:01,404 - INFO - episode: 201, total reward: 154.0
+
+2020-10-01 20:44:01,448 - INFO - episode: 202, total reward: 125.0
+
+2020-10-01 20:44:01,492 - INFO - episode: 203, total reward: 125.0
+
+2020-10-01 20:44:01,542 - INFO - episode: 204, total reward: 143.0
+
+2020-10-01 20:44:01,585 - INFO - episode: 205, total reward: 122.0
+
+2020-10-01 20:44:01,631 - INFO - episode: 206, total reward: 137.0
+
+2020-10-01 20:44:01,671 - INFO - episode: 207, total reward: 123.0
+
+2020-10-01 20:44:01,712 - INFO - episode: 208, total reward: 117.0
+
+2020-10-01 20:44:01,765 - INFO - episode: 209, total reward: 165.0
+
+2020-10-01 20:44:01,814 - INFO - episode: 210, total reward: 134.0
+
+2020-10-01 20:44:01,859 - INFO - episode: 211, total reward: 121.0
+
+2020-10-01 20:44:01,904 - INFO - episode: 212, total reward: 128.0
+
+2020-10-01 20:44:01,944 - INFO - episode: 213, total reward: 122.0
+
+2020-10-01 20:44:01,983 - INFO - episode: 214, total reward: 111.0
+
+2020-10-01 20:44:02,009 - INFO - episode: 215, total reward: 75.0
+
+2020-10-01 20:44:02,052 - INFO - episode: 216, total reward: 125.0
+
+2020-10-01 20:44:02,076 - INFO - episode: 217, total reward: 67.0
+
+2020-10-01 20:44:02,098 - INFO - episode: 218, total reward: 61.0
+
+2020-10-01 20:44:02,128 - INFO - episode: 219, total reward: 86.0
+
+2020-10-01 20:44:02,164 - INFO - episode: 220, total reward: 109.0
+
+2020-10-01 20:44:02,184 - INFO - episode: 221, total reward: 58.0
+
+2020-10-01 20:44:02,216 - INFO - episode: 222, total reward: 91.0
+
+2020-10-01 20:44:02,242 - INFO - episode: 223, total reward: 73.0
+
+2020-10-01 20:44:02,270 - INFO - episode: 224, total reward: 87.0
+
+2020-10-01 20:44:02,313 - INFO - episode: 225, total reward: 127.0
+
+2020-10-01 20:44:02,342 - INFO - episode: 226, total reward: 85.0
+
+2020-10-01 20:44:02,371 - INFO - episode: 227, total reward: 83.0
+
+2020-10-01 20:44:02,396 - INFO - episode: 228, total reward: 72.0
+
+2020-10-01 20:44:02,423 - INFO - episode: 229, total reward: 77.0
+
+2020-10-01 20:44:02,465 - INFO - episode: 230, total reward: 121.0
+
+2020-10-01 20:44:02,502 - INFO - episode: 231, total reward: 108.0
+
+2020-10-01 20:44:02,544 - INFO - episode: 232, total reward: 125.0
+
+2020-10-01 20:44:02,586 - INFO - episode: 233, total reward: 120.0
+
+2020-10-01 20:44:02,646 - INFO - episode: 234, total reward: 171.0
+
+2020-10-01 20:44:02,688 - INFO - episode: 235, total reward: 123.0
+
+2020-10-01 20:44:02,722 - INFO - episode: 236, total reward: 97.0
+
+2020-10-01 20:44:02,775 - INFO - episode: 237, total reward: 149.0
+
+2020-10-01 20:44:02,841 - INFO - episode: 238, total reward: 192.0
+
+2020-10-01 20:44:02,897 - INFO - episode: 239, total reward: 165.0
+
+2020-10-01 20:44:02,931 - INFO - episode: 240, total reward: 98.0
+
+2020-10-01 20:44:02,979 - INFO - episode: 241, total reward: 136.0
+
+2020-10-01 20:44:03,037 - INFO - episode: 242, total reward: 166.0
+
+2020-10-01 20:44:03,066 - INFO - episode: 243, total reward: 87.0
+
+2020-10-01 20:44:03,118 - INFO - episode: 244, total reward: 134.0
+
+2020-10-01 20:44:03,184 - INFO - episode: 245, total reward: 191.0
+
+2020-10-01 20:44:03,250 - INFO - episode: 246, total reward: 198.0
+
+2020-10-01 20:44:03,292 - INFO - episode: 247, total reward: 123.0
+
+2020-10-01 20:44:03,363 - INFO - episode: 248, total reward: 200.0
+
+2020-10-01 20:44:03,409 - INFO - episode: 249, total reward: 133.0
+
+2020-10-01 20:44:03,473 - INFO - episode: 250, total reward: 180.0
+
+2020-10-01 20:44:03,531 - INFO - episode: 251, total reward: 168.0
+
+2020-10-01 20:44:03,564 - INFO - episode: 252, total reward: 99.0
+
+2020-10-01 20:44:03,608 - INFO - episode: 253, total reward: 128.0
+
+2020-10-01 20:44:03,654 - INFO - episode: 254, total reward: 134.0
+
+2020-10-01 20:44:03,704 - INFO - episode: 255, total reward: 148.0
+
+2020-10-01 20:44:03,773 - INFO - episode: 256, total reward: 200.0
+
+2020-10-01 20:44:03,813 - INFO - episode: 257, total reward: 115.0
+
+2020-10-01 20:44:03,850 - INFO - episode: 258, total reward: 105.0
+
+2020-10-01 20:44:03,891 - INFO - episode: 259, total reward: 125.0
+
+2020-10-01 20:44:03,929 - INFO - episode: 260, total reward: 117.0
+
+2020-10-01 20:44:03,986 - INFO - episode: 261, total reward: 164.0
+
+2020-10-01 20:44:04,050 - INFO - episode: 262, total reward: 188.0
+
+2020-10-01 20:44:04,099 - INFO - episode: 263, total reward: 145.0
+
+2020-10-01 20:44:04,135 - INFO - episode: 264, total reward: 102.0
+
+2020-10-01 20:44:04,173 - INFO - episode: 265, total reward: 115.0
+
+2020-10-01 20:44:04,237 - INFO - episode: 266, total reward: 200.0
+
+2020-10-01 20:44:04,302 - INFO - episode: 267, total reward: 200.0
+
+2020-10-01 20:44:04,341 - INFO - episode: 268, total reward: 113.0
+
+2020-10-01 20:44:04,372 - INFO - episode: 269, total reward: 95.0
+
+2020-10-01 20:44:04,418 - INFO - episode: 270, total reward: 146.0
+
+2020-10-01 20:44:04,474 - INFO - episode: 271, total reward: 164.0
+
+2020-10-01 20:44:04,543 - INFO - episode: 272, total reward: 200.0
+
+2020-10-01 20:44:04,587 - INFO - episode: 273, total reward: 134.0
+
+2020-10-01 20:44:04,652 - INFO - episode: 274, total reward: 200.0
+
+2020-10-01 20:44:04,718 - INFO - episode: 275, total reward: 200.0
+
+2020-10-01 20:44:04,786 - INFO - episode: 276, total reward: 200.0
+
+2020-10-01 20:44:04,835 - INFO - episode: 277, total reward: 152.0
+
+2020-10-01 20:44:04,900 - INFO - episode: 278, total reward: 194.0
+
+2020-10-01 20:44:04,967 - INFO - episode: 279, total reward: 200.0
+
+2020-10-01 20:44:05,035 - INFO - episode: 280, total reward: 200.0
+
+2020-10-01 20:44:05,079 - INFO - episode: 281, total reward: 125.0
+
+2020-10-01 20:44:05,117 - INFO - episode: 282, total reward: 111.0
+
+2020-10-01 20:44:05,163 - INFO - episode: 283, total reward: 129.0
+
+2020-10-01 20:44:05,201 - INFO - episode: 284, total reward: 113.0
+
+2020-10-01 20:44:05,244 - INFO - episode: 285, total reward: 128.0
+
+2020-10-01 20:44:05,283 - INFO - episode: 286, total reward: 117.0
+
+2020-10-01 20:44:05,319 - INFO - episode: 287, total reward: 106.0
+
+2020-10-01 20:44:05,355 - INFO - episode: 288, total reward: 102.0
+
+2020-10-01 20:44:05,386 - INFO - episode: 289, total reward: 87.0
+
+2020-10-01 20:44:05,412 - INFO - episode: 290, total reward: 78.0
+
+2020-10-01 20:44:05,443 - INFO - episode: 291, total reward: 86.0
+
+2020-10-01 20:44:05,480 - INFO - episode: 292, total reward: 105.0
+
+2020-10-01 20:44:05,503 - INFO - episode: 293, total reward: 64.0
+
+2020-10-01 20:44:05,527 - INFO - episode: 294, total reward: 70.0
+
+2020-10-01 20:44:05,548 - INFO - episode: 295, total reward: 57.0
+
+2020-10-01 20:44:05,565 - INFO - episode: 296, total reward: 47.0
+
+2020-10-01 20:44:05,588 - INFO - episode: 297, total reward: 65.0
+
+2020-10-01 20:44:05,608 - INFO - episode: 298, total reward: 58.0
+
+2020-10-01 20:44:05,629 - INFO - episode: 299, total reward: 59.0
+
+2020-10-01 20:44:05,649 - INFO - episode: 300, total reward: 50.0
+
+2020-10-01 20:44:05,673 - INFO - episode: 301, total reward: 63.0
+
+2020-10-01 20:44:05,701 - INFO - episode: 302, total reward: 74.0
+
+2020-10-01 20:44:05,722 - INFO - episode: 303, total reward: 57.0
+
+2020-10-01 20:44:05,749 - INFO - episode: 304, total reward: 78.0
+
+2020-10-01 20:44:05,769 - INFO - episode: 305, total reward: 57.0
+
+2020-10-01 20:44:05,779 - INFO - episode: 306, total reward: 28.0
+
+2020-10-01 20:44:05,802 - INFO - episode: 307, total reward: 63.0
+
+2020-10-01 20:44:05,814 - INFO - episode: 308, total reward: 32.0
+
+2020-10-01 20:44:05,830 - INFO - episode: 309, total reward: 43.0
+
+2020-10-01 20:44:05,852 - INFO - episode: 310, total reward: 63.0
+
+2020-10-01 20:44:05,868 - INFO - episode: 311, total reward: 45.0
+
+2020-10-01 20:44:05,896 - INFO - episode: 312, total reward: 80.0
+
+2020-10-01 20:44:05,919 - INFO - episode: 313, total reward: 66.0
+
+2020-10-01 20:44:05,931 - INFO - episode: 314, total reward: 32.0
+
+2020-10-01 20:44:05,948 - INFO - episode: 315, total reward: 47.0
+
+2020-10-01 20:44:05,967 - INFO - episode: 316, total reward: 53.0
+
+2020-10-01 20:44:05,980 - INFO - episode: 317, total reward: 38.0
+
+2020-10-01 20:44:06,002 - INFO - episode: 318, total reward: 64.0
+
+2020-10-01 20:44:06,025 - INFO - episode: 319, total reward: 66.0
+
+2020-10-01 20:44:06,048 - INFO - episode: 320, total reward: 68.0
+
+2020-10-01 20:44:06,071 - INFO - episode: 321, total reward: 69.0
+
+2020-10-01 20:44:06,095 - INFO - episode: 322, total reward: 69.0
+
+2020-10-01 20:44:06,118 - INFO - episode: 323, total reward: 68.0
+
+2020-10-01 20:44:06,138 - INFO - episode: 324, total reward: 58.0
+
+2020-10-01 20:44:06,154 - INFO - episode: 325, total reward: 46.0
+
+2020-10-01 20:44:06,181 - INFO - episode: 326, total reward: 80.0
+
+2020-10-01 20:44:06,208 - INFO - episode: 327, total reward: 78.0
+
+2020-10-01 20:44:06,227 - INFO - episode: 328, total reward: 53.0
+
+2020-10-01 20:44:06,249 - INFO - episode: 329, total reward: 70.0
+
+2020-10-01 20:44:06,268 - INFO - episode: 330, total reward: 56.0
+
+2020-10-01 20:44:06,290 - INFO - episode: 331, total reward: 62.0
+
+2020-10-01 20:44:06,320 - INFO - episode: 332, total reward: 89.0
+
+2020-10-01 20:44:06,344 - INFO - episode: 333, total reward: 68.0
+
+2020-10-01 20:44:06,371 - INFO - episode: 334, total reward: 77.0
+
+2020-10-01 20:44:06,397 - INFO - episode: 335, total reward: 76.0
+
+2020-10-01 20:44:06,414 - INFO - episode: 336, total reward: 50.0
+
+2020-10-01 20:44:06,446 - INFO - episode: 337, total reward: 93.0
+
+2020-10-01 20:44:06,479 - INFO - episode: 338, total reward: 96.0
+
+2020-10-01 20:44:06,506 - INFO - episode: 339, total reward: 76.0
+
+2020-10-01 20:44:06,528 - INFO - episode: 340, total reward: 64.0
+
+2020-10-01 20:44:06,555 - INFO - episode: 341, total reward: 76.0
+
+2020-10-01 20:44:06,584 - INFO - episode: 342, total reward: 82.0
+
+2020-10-01 20:44:06,612 - INFO - episode: 343, total reward: 81.0
+
+2020-10-01 20:44:06,644 - INFO - episode: 344, total reward: 96.0
+
+2020-10-01 20:44:06,676 - INFO - episode: 345, total reward: 85.0
+
+2020-10-01 20:44:06,710 - INFO - episode: 346, total reward: 96.0
+
+2020-10-01 20:44:06,740 - INFO - episode: 347, total reward: 82.0
+
+2020-10-01 20:44:06,775 - INFO - episode: 348, total reward: 100.0
+
+2020-10-01 20:44:06,801 - INFO - episode: 349, total reward: 73.0
+
+2020-10-01 20:44:06,839 - INFO - episode: 350, total reward: 110.0
+
+2020-10-01 20:44:06,886 - INFO - episode: 351, total reward: 137.0
+
+2020-10-01 20:44:06,921 - INFO - episode: 352, total reward: 101.0
+
+2020-10-01 20:44:06,956 - INFO - episode: 353, total reward: 106.0
+
+2020-10-01 20:44:06,991 - INFO - episode: 354, total reward: 104.0
+
+2020-10-01 20:44:07,026 - INFO - episode: 355, total reward: 100.0
+
+2020-10-01 20:44:07,045 - INFO - episode: 356, total reward: 53.0
+
+2020-10-01 20:44:07,080 - INFO - episode: 357, total reward: 97.0
+
+2020-10-01 20:44:07,120 - INFO - episode: 358, total reward: 109.0
+
+2020-10-01 20:44:07,166 - INFO - episode: 359, total reward: 132.0
+
+2020-10-01 20:44:07,202 - INFO - episode: 360, total reward: 109.0
+
+2020-10-01 20:44:07,239 - INFO - episode: 361, total reward: 109.0
+
+2020-10-01 20:44:07,273 - INFO - episode: 362, total reward: 99.0
+
+2020-10-01 20:44:07,307 - INFO - episode: 363, total reward: 105.0
+
+2020-10-01 20:44:07,343 - INFO - episode: 364, total reward: 111.0
+
+2020-10-01 20:44:07,384 - INFO - episode: 365, total reward: 132.0
+
+2020-10-01 20:44:07,423 - INFO - episode: 366, total reward: 122.0
+
+2020-10-01 20:44:07,465 - INFO - episode: 367, total reward: 124.0
+
+2020-10-01 20:44:07,501 - INFO - episode: 368, total reward: 121.0
+
+2020-10-01 20:44:07,542 - INFO - episode: 369, total reward: 119.0
+
+2020-10-01 20:44:07,593 - INFO - episode: 370, total reward: 159.0
+
+2020-10-01 20:44:07,631 - INFO - episode: 371, total reward: 112.0
+
+2020-10-01 20:44:07,679 - INFO - episode: 372, total reward: 147.0
+
+2020-10-01 20:44:07,724 - INFO - episode: 373, total reward: 139.0
+
+2020-10-01 20:44:07,776 - INFO - episode: 374, total reward: 158.0
+
+2020-10-01 20:44:07,829 - INFO - episode: 375, total reward: 156.0
+
+2020-10-01 20:44:07,880 - INFO - episode: 376, total reward: 152.0
+
+2020-10-01 20:44:07,925 - INFO - episode: 377, total reward: 130.0
+
+2020-10-01 20:44:07,979 - INFO - episode: 378, total reward: 172.0
+
+2020-10-01 20:44:08,020 - INFO - episode: 379, total reward: 117.0
+
+2020-10-01 20:44:08,065 - INFO - episode: 380, total reward: 137.0
+
+2020-10-01 20:44:08,111 - INFO - episode: 381, total reward: 134.0
+
+2020-10-01 20:44:08,156 - INFO - episode: 382, total reward: 136.0
+
+2020-10-01 20:44:08,197 - INFO - episode: 383, total reward: 120.0
+
+2020-10-01 20:44:08,239 - INFO - episode: 384, total reward: 121.0
+
+2020-10-01 20:44:08,277 - INFO - episode: 385, total reward: 114.0
+
+2020-10-01 20:44:08,338 - INFO - episode: 386, total reward: 190.0
+
+2020-10-01 20:44:08,381 - INFO - episode: 387, total reward: 129.0
+
+2020-10-01 20:44:08,434 - INFO - episode: 388, total reward: 158.0
+
+2020-10-01 20:44:08,474 - INFO - episode: 389, total reward: 121.0
+
+2020-10-01 20:44:08,523 - INFO - episode: 390, total reward: 146.0
+
+2020-10-01 20:44:08,576 - INFO - episode: 391, total reward: 151.0
+
+2020-10-01 20:44:08,632 - INFO - episode: 392, total reward: 175.0
+
+2020-10-01 20:44:08,691 - INFO - episode: 393, total reward: 172.0
+
+2020-10-01 20:44:08,739 - INFO - episode: 394, total reward: 137.0
+
+2020-10-01 20:44:08,807 - INFO - episode: 395, total reward: 200.0
+
+2020-10-01 20:44:08,859 - INFO - episode: 396, total reward: 152.0
+
+2020-10-01 20:44:08,909 - INFO - episode: 397, total reward: 144.0
+
+2020-10-01 20:44:08,964 - INFO - episode: 398, total reward: 162.0
+
+2020-10-01 20:44:09,024 - INFO - episode: 399, total reward: 171.0
+
+2020-10-01 20:44:09,069 - INFO - episode: 400, total reward: 121.0
+
+2020-10-01 20:44:09,125 - INFO - episode: 401, total reward: 164.0
+
+2020-10-01 20:44:09,182 - INFO - episode: 402, total reward: 170.0
+
+2020-10-01 20:44:09,239 - INFO - episode: 403, total reward: 165.0
+
+2020-10-01 20:44:09,290 - INFO - episode: 404, total reward: 147.0
+
+2020-10-01 20:44:09,337 - INFO - episode: 405, total reward: 133.0
+
+2020-10-01 20:44:09,382 - INFO - episode: 406, total reward: 132.0
+
+2020-10-01 20:44:09,422 - INFO - episode: 407, total reward: 119.0
+
+2020-10-01 20:44:09,483 - INFO - episode: 408, total reward: 178.0
+
+2020-10-01 20:44:09,525 - INFO - episode: 409, total reward: 122.0
+
+2020-10-01 20:44:09,572 - INFO - episode: 410, total reward: 136.0
+
+2020-10-01 20:44:09,635 - INFO - episode: 411, total reward: 181.0
+
+2020-10-01 20:44:09,701 - INFO - episode: 412, total reward: 193.0
+
+2020-10-01 20:44:09,761 - INFO - episode: 413, total reward: 200.0
+
+2020-10-01 20:44:09,811 - INFO - episode: 414, total reward: 148.0
+
+2020-10-01 20:44:09,867 - INFO - episode: 415, total reward: 164.0
+
+2020-10-01 20:44:09,934 - INFO - episode: 416, total reward: 200.0
+
+2020-10-01 20:44:09,978 - INFO - episode: 417, total reward: 147.0
+
+2020-10-01 20:44:10,047 - INFO - episode: 418, total reward: 200.0
+
+2020-10-01 20:44:10,115 - INFO - episode: 419, total reward: 200.0
+
+2020-10-01 20:44:10,184 - INFO - episode: 420, total reward: 200.0
+
+2020-10-01 20:44:10,258 - INFO - episode: 421, total reward: 200.0
+
+2020-10-01 20:44:10,328 - INFO - episode: 422, total reward: 200.0
+
+2020-10-01 20:44:10,396 - INFO - episode: 423, total reward: 195.0
+
+2020-10-01 20:44:10,466 - INFO - episode: 424, total reward: 200.0
+
+2020-10-01 20:44:10,532 - INFO - episode: 425, total reward: 200.0
+
+2020-10-01 20:44:10,601 - INFO - episode: 426, total reward: 200.0
+
+2020-10-01 20:44:10,670 - INFO - episode: 427, total reward: 200.0
+
+2020-10-01 20:44:10,741 - INFO - episode: 428, total reward: 200.0
+
+2020-10-01 20:44:10,813 - INFO - episode: 429, total reward: 200.0
+
+2020-10-01 20:44:10,876 - INFO - episode: 430, total reward: 185.0
+
+2020-10-01 20:44:10,942 - INFO - episode: 431, total reward: 200.0
+
+2020-10-01 20:44:11,005 - INFO - episode: 432, total reward: 200.0
+
+2020-10-01 20:44:11,068 - INFO - episode: 433, total reward: 187.0
+
+2020-10-01 20:44:11,135 - INFO - episode: 434, total reward: 200.0
+
+2020-10-01 20:44:11,202 - INFO - episode: 435, total reward: 200.0
+
+2020-10-01 20:44:11,269 - INFO - episode: 436, total reward: 200.0
+
+2020-10-01 20:44:11,334 - INFO - episode: 437, total reward: 200.0
+
+2020-10-01 20:44:11,400 - INFO - episode: 438, total reward: 200.0
+
+2020-10-01 20:44:11,467 - INFO - episode: 439, total reward: 200.0
+
+2020-10-01 20:44:11,534 - INFO - episode: 440, total reward: 200.0
+
+2020-10-01 20:44:11,593 - INFO - episode: 441, total reward: 186.0
+
+2020-10-01 20:44:11,661 - INFO - episode: 442, total reward: 200.0
+
+2020-10-01 20:44:11,728 - INFO - episode: 443, total reward: 200.0
+
+2020-10-01 20:44:11,795 - INFO - episode: 444, total reward: 200.0
+
+2020-10-01 20:44:11,863 - INFO - episode: 445, total reward: 200.0
+
+2020-10-01 20:44:11,933 - INFO - episode: 446, total reward: 200.0
+
+2020-10-01 20:44:12,003 - INFO - episode: 447, total reward: 200.0
+
+2020-10-01 20:44:12,069 - INFO - episode: 448, total reward: 200.0
+
+2020-10-01 20:44:12,138 - INFO - episode: 449, total reward: 200.0
+
+2020-10-01 20:44:12,207 - INFO - episode: 450, total reward: 200.0
+
+2020-10-01 20:44:12,276 - INFO - episode: 451, total reward: 200.0
+
+2020-10-01 20:44:12,345 - INFO - episode: 452, total reward: 200.0
+
+2020-10-01 20:44:12,412 - INFO - episode: 453, total reward: 200.0
+
+2020-10-01 20:44:12,481 - INFO - episode: 454, total reward: 200.0
+
+2020-10-01 20:44:12,550 - INFO - episode: 455, total reward: 200.0
+
+2020-10-01 20:44:12,619 - INFO - episode: 456, total reward: 200.0
+
+2020-10-01 20:44:12,686 - INFO - episode: 457, total reward: 200.0
+
+2020-10-01 20:44:12,754 - INFO - episode: 458, total reward: 200.0
+
+2020-10-01 20:44:12,823 - INFO - episode: 459, total reward: 200.0
+
+2020-10-01 20:44:12,891 - INFO - episode: 460, total reward: 200.0
+
+2020-10-01 20:44:12,956 - INFO - episode: 461, total reward: 200.0
+
+2020-10-01 20:44:13,022 - INFO - episode: 462, total reward: 200.0
+
+2020-10-01 20:44:13,086 - INFO - episode: 463, total reward: 200.0
+
+2020-10-01 20:44:13,153 - INFO - episode: 464, total reward: 200.0
+
+2020-10-01 20:44:13,223 - INFO - episode: 465, total reward: 200.0
+
+2020-10-01 20:44:13,295 - INFO - episode: 466, total reward: 200.0
+
+2020-10-01 20:44:13,364 - INFO - episode: 467, total reward: 200.0
+
+2020-10-01 20:44:13,433 - INFO - episode: 468, total reward: 200.0
+
+2020-10-01 20:44:13,502 - INFO - episode: 469, total reward: 200.0
+
+2020-10-01 20:44:13,571 - INFO - episode: 470, total reward: 200.0
+
+2020-10-01 20:44:13,638 - INFO - episode: 471, total reward: 200.0
+
+2020-10-01 20:44:13,706 - INFO - episode: 472, total reward: 200.0
+
+2020-10-01 20:44:13,775 - INFO - episode: 473, total reward: 200.0
+
+2020-10-01 20:44:13,845 - INFO - episode: 474, total reward: 200.0
+
+2020-10-01 20:44:13,914 - INFO - episode: 475, total reward: 200.0
+
+2020-10-01 20:44:13,986 - INFO - episode: 476, total reward: 200.0
+
+2020-10-01 20:44:14,055 - INFO - episode: 477, total reward: 200.0
+
+2020-10-01 20:44:14,124 - INFO - episode: 478, total reward: 200.0
+
+2020-10-01 20:44:14,192 - INFO - episode: 479, total reward: 200.0
+
+2020-10-01 20:44:14,260 - INFO - episode: 480, total reward: 200.0
+
+2020-10-01 20:44:14,328 - INFO - episode: 481, total reward: 200.0
+
+2020-10-01 20:44:14,393 - INFO - episode: 482, total reward: 200.0
+
+2020-10-01 20:44:14,460 - INFO - episode: 483, total reward: 200.0
+
+2020-10-01 20:44:14,524 - INFO - episode: 484, total reward: 200.0
+
+2020-10-01 20:44:14,594 - INFO - episode: 485, total reward: 200.0
+
+2020-10-01 20:44:14,664 - INFO - episode: 486, total reward: 200.0
+
+2020-10-01 20:44:14,729 - INFO - episode: 487, total reward: 200.0
+
+2020-10-01 20:44:14,794 - INFO - episode: 488, total reward: 200.0
+
+2020-10-01 20:44:14,863 - INFO - episode: 489, total reward: 200.0
+
+2020-10-01 20:44:14,930 - INFO - episode: 490, total reward: 200.0
+
+2020-10-01 20:44:15,000 - INFO - episode: 491, total reward: 200.0
+
+2020-10-01 20:44:15,070 - INFO - episode: 492, total reward: 200.0
+
+2020-10-01 20:44:15,138 - INFO - episode: 493, total reward: 200.0
+
+2020-10-01 20:44:15,208 - INFO - episode: 494, total reward: 200.0
+
+2020-10-01 20:44:15,278 - INFO - episode: 495, total reward: 200.0
+
+2020-10-01 20:44:15,346 - INFO - episode: 496, total reward: 200.0
+
+2020-10-01 20:44:15,415 - INFO - episode: 497, total reward: 200.0
+
+2020-10-01 20:44:15,486 - INFO - episode: 498, total reward: 200.0
+
+2020-10-01 20:44:15,555 - INFO - episode: 499, total reward: 200.0
+
+2020-10-01 20:44:15,622 - INFO - episode: 500, total reward: 200.0
+
+2020-10-01 20:44:15,693 - INFO - episode: 501, total reward: 200.0
+
+2020-10-01 20:44:15,763 - INFO - episode: 502, total reward: 200.0
+
+2020-10-01 20:44:15,831 - INFO - episode: 503, total reward: 200.0
+
+2020-10-01 20:44:15,897 - INFO - episode: 504, total reward: 200.0
+
+2020-10-01 20:44:15,966 - INFO - episode: 505, total reward: 200.0
+
+2020-10-01 20:44:16,035 - INFO - episode: 506, total reward: 200.0
+
+2020-10-01 20:44:16,104 - INFO - episode: 507, total reward: 200.0
+
+2020-10-01 20:44:16,182 - INFO - episode: 508, total reward: 200.0
+
+2020-10-01 20:44:16,252 - INFO - episode: 509, total reward: 200.0
+
+2020-10-01 20:44:16,321 - INFO - episode: 510, total reward: 200.0
+
+2020-10-01 20:44:16,389 - INFO - episode: 511, total reward: 200.0
+
+2020-10-01 20:44:16,457 - INFO - episode: 512, total reward: 200.0
+
+2020-10-01 20:44:16,525 - INFO - episode: 513, total reward: 200.0
+
+2020-10-01 20:44:16,593 - INFO - episode: 514, total reward: 200.0
+
+2020-10-01 20:44:16,665 - INFO - episode: 515, total reward: 200.0
+
+2020-10-01 20:44:16,729 - INFO - episode: 516, total reward: 200.0
+
+2020-10-01 20:44:16,794 - INFO - episode: 517, total reward: 200.0
+
+2020-10-01 20:44:16,862 - INFO - episode: 518, total reward: 200.0
+
+2020-10-01 20:44:16,927 - INFO - episode: 519, total reward: 200.0
+
+2020-10-01 20:44:16,994 - INFO - episode: 520, total reward: 200.0
+
+2020-10-01 20:44:17,061 - INFO - episode: 521, total reward: 200.0
+
+2020-10-01 20:44:17,126 - INFO - episode: 522, total reward: 200.0
+
+2020-10-01 20:44:17,193 - INFO - episode: 523, total reward: 200.0
+
+2020-10-01 20:44:17,257 - INFO - episode: 524, total reward: 200.0
+
+2020-10-01 20:44:17,325 - INFO - episode: 525, total reward: 200.0
+
+2020-10-01 20:44:17,393 - INFO - episode: 526, total reward: 200.0
+
+2020-10-01 20:44:17,460 - INFO - episode: 527, total reward: 200.0
+
+2020-10-01 20:44:17,526 - INFO - episode: 528, total reward: 200.0
+
+2020-10-01 20:44:17,594 - INFO - episode: 529, total reward: 200.0
+
+2020-10-01 20:44:17,663 - INFO - episode: 530, total reward: 200.0
+
+2020-10-01 20:44:17,732 - INFO - episode: 531, total reward: 200.0
+
+2020-10-01 20:44:17,798 - INFO - episode: 532, total reward: 200.0
+
+2020-10-01 20:44:17,866 - INFO - episode: 533, total reward: 200.0
+
+2020-10-01 20:44:17,934 - INFO - episode: 534, total reward: 200.0
+
+2020-10-01 20:44:17,996 - INFO - episode: 535, total reward: 200.0
+
+2020-10-01 20:44:18,062 - INFO - episode: 536, total reward: 200.0
+
+2020-10-01 20:44:18,129 - INFO - episode: 537, total reward: 200.0
+
+2020-10-01 20:44:18,193 - INFO - episode: 538, total reward: 200.0
+
+2020-10-01 20:44:18,259 - INFO - episode: 539, total reward: 200.0
+
+2020-10-01 20:44:18,324 - INFO - episode: 540, total reward: 200.0
+
+2020-10-01 20:44:18,392 - INFO - episode: 541, total reward: 200.0
+
+2020-10-01 20:44:18,460 - INFO - episode: 542, total reward: 200.0
+
+2020-10-01 20:44:18,522 - INFO - episode: 543, total reward: 200.0
+
+2020-10-01 20:44:18,592 - INFO - episode: 544, total reward: 200.0
+
+2020-10-01 20:44:18,662 - INFO - episode: 545, total reward: 200.0
+
+2020-10-01 20:44:18,731 - INFO - episode: 546, total reward: 200.0
+
+2020-10-01 20:44:18,800 - INFO - episode: 547, total reward: 200.0
+
+2020-10-01 20:44:18,864 - INFO - episode: 548, total reward: 200.0
+
+2020-10-01 20:44:18,928 - INFO - episode: 549, total reward: 200.0
+
+2020-10-01 20:44:18,996 - INFO - episode: 550, total reward: 200.0
+
+2020-10-01 20:44:19,061 - INFO - episode: 551, total reward: 200.0
+
+2020-10-01 20:44:19,130 - INFO - episode: 552, total reward: 200.0
+
+2020-10-01 20:44:19,199 - INFO - episode: 553, total reward: 200.0
+
+2020-10-01 20:44:19,267 - INFO - episode: 554, total reward: 200.0
+
+2020-10-01 20:44:19,336 - INFO - episode: 555, total reward: 200.0
+
+2020-10-01 20:44:19,404 - INFO - episode: 556, total reward: 200.0
+
+2020-10-01 20:44:19,472 - INFO - episode: 557, total reward: 200.0
+
+2020-10-01 20:44:19,537 - INFO - episode: 558, total reward: 200.0
+
+2020-10-01 20:44:19,606 - INFO - episode: 559, total reward: 200.0
+
+2020-10-01 20:44:19,675 - INFO - episode: 560, total reward: 200.0
+
+2020-10-01 20:44:19,743 - INFO - episode: 561, total reward: 200.0
+
+2020-10-01 20:44:19,809 - INFO - episode: 562, total reward: 200.0
+
+2020-10-01 20:44:19,877 - INFO - episode: 563, total reward: 200.0
+
+2020-10-01 20:44:19,947 - INFO - episode: 564, total reward: 200.0
+
+2020-10-01 20:44:20,016 - INFO - episode: 565, total reward: 200.0
+
+2020-10-01 20:44:20,086 - INFO - episode: 566, total reward: 200.0
+
+2020-10-01 20:44:20,155 - INFO - episode: 567, total reward: 200.0
+
+2020-10-01 20:44:20,223 - INFO - episode: 568, total reward: 200.0
+
+2020-10-01 20:44:20,291 - INFO - episode: 569, total reward: 200.0
+
+2020-10-01 20:44:20,359 - INFO - episode: 570, total reward: 200.0
+
+2020-10-01 20:44:20,429 - INFO - episode: 571, total reward: 200.0
+
+2020-10-01 20:44:20,497 - INFO - episode: 572, total reward: 200.0
+
+2020-10-01 20:44:20,563 - INFO - episode: 573, total reward: 200.0
+
+2020-10-01 20:44:20,623 - INFO - episode: 574, total reward: 182.0
+
+2020-10-01 20:44:20,690 - INFO - episode: 575, total reward: 200.0
+
+2020-10-01 20:44:20,752 - INFO - episode: 576, total reward: 185.0
+
+2020-10-01 20:44:20,819 - INFO - episode: 577, total reward: 200.0
+
+2020-10-01 20:44:20,877 - INFO - episode: 578, total reward: 168.0
+
+2020-10-01 20:44:20,941 - INFO - episode: 579, total reward: 195.0
+
+2020-10-01 20:44:20,993 - INFO - episode: 580, total reward: 158.0
+
+2020-10-01 20:44:21,039 - INFO - episode: 581, total reward: 139.0
+
+2020-10-01 20:44:21,095 - INFO - episode: 582, total reward: 163.0
+
+2020-10-01 20:44:21,147 - INFO - episode: 583, total reward: 159.0
+
+2020-10-01 20:44:21,201 - INFO - episode: 584, total reward: 164.0
+
+2020-10-01 20:44:21,254 - INFO - episode: 585, total reward: 156.0
+
+2020-10-01 20:44:21,310 - INFO - episode: 586, total reward: 162.0
+
+2020-10-01 20:44:21,364 - INFO - episode: 587, total reward: 163.0
+
+2020-10-01 20:44:21,422 - INFO - episode: 588, total reward: 170.0
+
+2020-10-01 20:44:21,468 - INFO - episode: 589, total reward: 141.0
+
+2020-10-01 20:44:21,522 - INFO - episode: 590, total reward: 156.0
+
+2020-10-01 20:44:21,578 - INFO - episode: 591, total reward: 168.0
+
+2020-10-01 20:44:21,640 - INFO - episode: 592, total reward: 181.0
+
+2020-10-01 20:44:21,699 - INFO - episode: 593, total reward: 170.0
+
+2020-10-01 20:44:21,768 - INFO - episode: 594, total reward: 200.0
+
+2020-10-01 20:44:21,824 - INFO - episode: 595, total reward: 168.0
+
+2020-10-01 20:44:21,894 - INFO - episode: 596, total reward: 198.0
+
+2020-10-01 20:44:21,966 - INFO - episode: 597, total reward: 200.0
+
+2020-10-01 20:44:22,038 - INFO - episode: 598, total reward: 200.0
+
+2020-10-01 20:44:22,109 - INFO - episode: 599, total reward: 200.0
+
+2020-10-01 20:44:22,182 - INFO - episode: 600, total reward: 200.0
+
+2020-10-01 20:44:22,253 - INFO - episode: 601, total reward: 200.0
+
+2020-10-01 20:44:22,324 - INFO - episode: 602, total reward: 200.0
+
+2020-10-01 20:44:22,395 - INFO - episode: 603, total reward: 200.0
+
+2020-10-01 20:44:22,467 - INFO - episode: 604, total reward: 200.0
+
+2020-10-01 20:44:22,537 - INFO - episode: 605, total reward: 200.0
+
+2020-10-01 20:44:22,607 - INFO - episode: 606, total reward: 200.0
+
+2020-10-01 20:44:22,676 - INFO - episode: 607, total reward: 200.0
+
+2020-10-01 20:44:22,745 - INFO - episode: 608, total reward: 200.0
+
+2020-10-01 20:44:22,815 - INFO - episode: 609, total reward: 200.0
+
+2020-10-01 20:44:22,882 - INFO - episode: 610, total reward: 200.0
+
+2020-10-01 20:44:22,951 - INFO - episode: 611, total reward: 200.0
+
+2020-10-01 20:44:23,018 - INFO - episode: 612, total reward: 200.0
+
+2020-10-01 20:44:23,086 - INFO - episode: 613, total reward: 200.0
+
+2020-10-01 20:44:23,155 - INFO - episode: 614, total reward: 200.0
+
+2020-10-01 20:44:23,223 - INFO - episode: 615, total reward: 200.0
+
+2020-10-01 20:44:23,293 - INFO - episode: 616, total reward: 200.0
+
+2020-10-01 20:44:23,363 - INFO - episode: 617, total reward: 200.0
+
+2020-10-01 20:44:23,433 - INFO - episode: 618, total reward: 200.0
+
+2020-10-01 20:44:23,502 - INFO - episode: 619, total reward: 200.0
+
+2020-10-01 20:44:23,569 - INFO - episode: 620, total reward: 200.0
+
+2020-10-01 20:44:23,636 - INFO - episode: 621, total reward: 200.0
+
+2020-10-01 20:44:23,705 - INFO - episode: 622, total reward: 200.0
+
+2020-10-01 20:44:23,779 - INFO - episode: 623, total reward: 200.0
+
+2020-10-01 20:44:23,848 - INFO - episode: 624, total reward: 200.0
+
+2020-10-01 20:44:23,915 - INFO - episode: 625, total reward: 200.0
+
+2020-10-01 20:44:23,991 - INFO - episode: 626, total reward: 200.0
+
+2020-10-01 20:44:24,068 - INFO - episode: 627, total reward: 200.0
+
+2020-10-01 20:44:24,138 - INFO - episode: 628, total reward: 200.0
+
+2020-10-01 20:44:24,206 - INFO - episode: 629, total reward: 200.0
+
+2020-10-01 20:44:24,275 - INFO - episode: 630, total reward: 200.0
+
+2020-10-01 20:44:24,344 - INFO - episode: 631, total reward: 200.0
+
+2020-10-01 20:44:24,412 - INFO - episode: 632, total reward: 200.0
+
+2020-10-01 20:44:24,481 - INFO - episode: 633, total reward: 200.0
+
+2020-10-01 20:44:24,550 - INFO - episode: 634, total reward: 200.0
+
+2020-10-01 20:44:24,619 - INFO - episode: 635, total reward: 200.0
+
+2020-10-01 20:44:24,688 - INFO - episode: 636, total reward: 200.0
+
+2020-10-01 20:44:24,757 - INFO - episode: 637, total reward: 200.0
+
+2020-10-01 20:44:24,823 - INFO - episode: 638, total reward: 200.0
+
+2020-10-01 20:44:24,887 - INFO - episode: 639, total reward: 200.0
+
+2020-10-01 20:44:24,956 - INFO - episode: 640, total reward: 200.0
+
+2020-10-01 20:44:25,022 - INFO - episode: 641, total reward: 200.0
+
+2020-10-01 20:44:25,091 - INFO - episode: 642, total reward: 200.0
+
+2020-10-01 20:44:25,160 - INFO - episode: 643, total reward: 200.0
+
+2020-10-01 20:44:25,228 - INFO - episode: 644, total reward: 200.0
+
+2020-10-01 20:44:25,295 - INFO - episode: 645, total reward: 200.0
+
+2020-10-01 20:44:25,363 - INFO - episode: 646, total reward: 200.0
+
+2020-10-01 20:44:25,429 - INFO - episode: 647, total reward: 200.0
+
+2020-10-01 20:44:25,499 - INFO - episode: 648, total reward: 200.0
+
+2020-10-01 20:44:25,567 - INFO - episode: 649, total reward: 200.0
+
+2020-10-01 20:44:25,636 - INFO - episode: 650, total reward: 200.0
+
+2020-10-01 20:44:25,706 - INFO - episode: 651, total reward: 200.0
+
+2020-10-01 20:44:25,774 - INFO - episode: 652, total reward: 200.0
+
+2020-10-01 20:44:25,843 - INFO - episode: 653, total reward: 200.0
+
+2020-10-01 20:44:25,911 - INFO - episode: 654, total reward: 200.0
+
+2020-10-01 20:44:25,978 - INFO - episode: 655, total reward: 200.0
+
+2020-10-01 20:44:26,046 - INFO - episode: 656, total reward: 200.0
+
+2020-10-01 20:44:26,113 - INFO - episode: 657, total reward: 200.0
+
+2020-10-01 20:44:26,183 - INFO - episode: 658, total reward: 200.0
+
+2020-10-01 20:44:26,253 - INFO - episode: 659, total reward: 200.0
+
+2020-10-01 20:44:26,322 - INFO - episode: 660, total reward: 200.0
+
+2020-10-01 20:44:26,390 - INFO - episode: 661, total reward: 200.0
+
+2020-10-01 20:44:26,457 - INFO - episode: 662, total reward: 200.0
+
+2020-10-01 20:44:26,525 - INFO - episode: 663, total reward: 200.0
+
+2020-10-01 20:44:26,596 - INFO - episode: 664, total reward: 200.0
+
+2020-10-01 20:44:26,679 - INFO - episode: 665, total reward: 200.0
+
+2020-10-01 20:44:26,750 - INFO - episode: 666, total reward: 200.0
+
+2020-10-01 20:44:26,819 - INFO - episode: 667, total reward: 200.0
+
+2020-10-01 20:44:26,887 - INFO - episode: 668, total reward: 200.0
+
+2020-10-01 20:44:26,954 - INFO - episode: 669, total reward: 200.0
+
+2020-10-01 20:44:27,020 - INFO - episode: 670, total reward: 200.0
+
+2020-10-01 20:44:27,087 - INFO - episode: 671, total reward: 200.0
+
+2020-10-01 20:44:27,156 - INFO - episode: 672, total reward: 200.0
+
+2020-10-01 20:44:27,226 - INFO - episode: 673, total reward: 200.0
+
+2020-10-01 20:44:27,296 - INFO - episode: 674, total reward: 200.0
+
+2020-10-01 20:44:27,365 - INFO - episode: 675, total reward: 200.0
+
+2020-10-01 20:44:27,436 - INFO - episode: 676, total reward: 200.0
+
+2020-10-01 20:44:27,504 - INFO - episode: 677, total reward: 200.0
+
+2020-10-01 20:44:27,572 - INFO - episode: 678, total reward: 200.0
+
+2020-10-01 20:44:27,644 - INFO - episode: 679, total reward: 200.0
+
+2020-10-01 20:44:27,716 - INFO - episode: 680, total reward: 200.0
+
+2020-10-01 20:44:27,786 - INFO - episode: 681, total reward: 200.0
+
+2020-10-01 20:44:27,856 - INFO - episode: 682, total reward: 200.0
+
+2020-10-01 20:44:27,925 - INFO - episode: 683, total reward: 200.0
+
+2020-10-01 20:44:27,995 - INFO - episode: 684, total reward: 200.0
+
+2020-10-01 20:44:28,067 - INFO - episode: 685, total reward: 200.0
+
+2020-10-01 20:44:28,140 - INFO - episode: 686, total reward: 200.0
+
+2020-10-01 20:44:28,212 - INFO - episode: 687, total reward: 200.0
+
+2020-10-01 20:44:28,287 - INFO - episode: 688, total reward: 200.0
+
+2020-10-01 20:44:28,359 - INFO - episode: 689, total reward: 200.0
+
+2020-10-01 20:44:28,430 - INFO - episode: 690, total reward: 200.0
+
+2020-10-01 20:44:28,501 - INFO - episode: 691, total reward: 200.0
+
+2020-10-01 20:44:28,572 - INFO - episode: 692, total reward: 200.0
+
+2020-10-01 20:44:28,641 - INFO - episode: 693, total reward: 200.0
+
+2020-10-01 20:44:28,708 - INFO - episode: 694, total reward: 200.0
+
+2020-10-01 20:44:28,777 - INFO - episode: 695, total reward: 200.0
+
+2020-10-01 20:44:28,844 - INFO - episode: 696, total reward: 200.0
+
+2020-10-01 20:44:28,916 - INFO - episode: 697, total reward: 200.0
+
+2020-10-01 20:44:28,984 - INFO - episode: 698, total reward: 200.0
+
+2020-10-01 20:44:29,054 - INFO - episode: 699, total reward: 200.0
+
+2020-10-01 20:44:29,122 - INFO - episode: 700, total reward: 200.0
+
+2020-10-01 20:44:29,191 - INFO - episode: 701, total reward: 200.0
+
+2020-10-01 20:44:29,260 - INFO - episode: 702, total reward: 200.0
+
+2020-10-01 20:44:29,329 - INFO - episode: 703, total reward: 200.0
+
+2020-10-01 20:44:29,398 - INFO - episode: 704, total reward: 200.0
+
+2020-10-01 20:44:29,468 - INFO - episode: 705, total reward: 200.0
+
+2020-10-01 20:44:29,538 - INFO - episode: 706, total reward: 200.0
+
+2020-10-01 20:44:29,606 - INFO - episode: 707, total reward: 200.0
+
+2020-10-01 20:44:29,674 - INFO - episode: 708, total reward: 200.0
+
+2020-10-01 20:44:29,743 - INFO - episode: 709, total reward: 200.0
+
+2020-10-01 20:44:29,812 - INFO - episode: 710, total reward: 200.0
+
+2020-10-01 20:44:29,880 - INFO - episode: 711, total reward: 200.0
+
+2020-10-01 20:44:29,950 - INFO - episode: 712, total reward: 200.0
+
+2020-10-01 20:44:30,022 - INFO - episode: 713, total reward: 200.0
+
+2020-10-01 20:44:30,093 - INFO - episode: 714, total reward: 200.0
+
+2020-10-01 20:44:30,161 - INFO - episode: 715, total reward: 200.0
+
+2020-10-01 20:44:30,231 - INFO - episode: 716, total reward: 200.0
+
+2020-10-01 20:44:30,302 - INFO - episode: 717, total reward: 200.0
+
+2020-10-01 20:44:30,371 - INFO - episode: 718, total reward: 200.0
+
+2020-10-01 20:44:30,440 - INFO - episode: 719, total reward: 200.0
+
+2020-10-01 20:44:30,508 - INFO - episode: 720, total reward: 200.0
+
+2020-10-01 20:44:30,576 - INFO - episode: 721, total reward: 200.0
+
+2020-10-01 20:44:30,644 - INFO - episode: 722, total reward: 200.0
+
+2020-10-01 20:44:30,710 - INFO - episode: 723, total reward: 200.0
+
+2020-10-01 20:44:30,779 - INFO - episode: 724, total reward: 200.0
+
+2020-10-01 20:44:30,848 - INFO - episode: 725, total reward: 200.0
+
+2020-10-01 20:44:30,917 - INFO - episode: 726, total reward: 200.0
+
+2020-10-01 20:44:30,985 - INFO - episode: 727, total reward: 200.0
+
+2020-10-01 20:44:31,055 - INFO - episode: 728, total reward: 200.0
+
+2020-10-01 20:44:31,125 - INFO - episode: 729, total reward: 200.0
+
+2020-10-01 20:44:31,194 - INFO - episode: 730, total reward: 200.0
+
+2020-10-01 20:44:31,264 - INFO - episode: 731, total reward: 200.0
+
+2020-10-01 20:44:31,332 - INFO - episode: 732, total reward: 200.0
+
+2020-10-01 20:44:31,399 - INFO - episode: 733, total reward: 200.0
+
+2020-10-01 20:44:31,465 - INFO - episode: 734, total reward: 200.0
+
+2020-10-01 20:44:31,531 - INFO - episode: 735, total reward: 200.0
+
+2020-10-01 20:44:31,607 - INFO - episode: 736, total reward: 200.0
+
+2020-10-01 20:44:31,685 - INFO - episode: 737, total reward: 200.0
+
+2020-10-01 20:44:31,756 - INFO - episode: 738, total reward: 200.0
+
+2020-10-01 20:44:31,824 - INFO - episode: 739, total reward: 200.0
+
+2020-10-01 20:44:31,896 - INFO - episode: 740, total reward: 200.0
+
+2020-10-01 20:44:31,966 - INFO - episode: 741, total reward: 200.0
+
+2020-10-01 20:44:32,036 - INFO - episode: 742, total reward: 200.0
+
+2020-10-01 20:44:32,106 - INFO - episode: 743, total reward: 200.0
+
+2020-10-01 20:44:32,178 - INFO - episode: 744, total reward: 200.0
+
+2020-10-01 20:44:32,249 - INFO - episode: 745, total reward: 200.0
+
+2020-10-01 20:44:32,318 - INFO - episode: 746, total reward: 200.0
+
+2020-10-01 20:44:32,383 - INFO - episode: 747, total reward: 187.0
+
+2020-10-01 20:44:32,450 - INFO - episode: 748, total reward: 200.0
+
+2020-10-01 20:44:32,504 - INFO - episode: 749, total reward: 167.0
+
+2020-10-01 20:44:32,567 - INFO - episode: 750, total reward: 183.0
+
+2020-10-01 20:44:32,627 - INFO - episode: 751, total reward: 166.0
+
+2020-10-01 20:44:32,691 - INFO - episode: 752, total reward: 164.0
+
+2020-10-01 20:44:32,753 - INFO - episode: 753, total reward: 174.0
+
+2020-10-01 20:44:32,808 - INFO - episode: 754, total reward: 161.0
+
+2020-10-01 20:44:32,869 - INFO - episode: 755, total reward: 177.0
+
+2020-10-01 20:44:32,925 - INFO - episode: 756, total reward: 162.0
+
+2020-10-01 20:44:32,980 - INFO - episode: 757, total reward: 158.0
+
+2020-10-01 20:44:33,033 - INFO - episode: 758, total reward: 154.0
+
+2020-10-01 20:44:33,081 - INFO - episode: 759, total reward: 137.0
+
+2020-10-01 20:44:33,134 - INFO - episode: 760, total reward: 152.0
+
+2020-10-01 20:44:33,189 - INFO - episode: 761, total reward: 156.0
+
+2020-10-01 20:44:33,236 - INFO - episode: 762, total reward: 135.0
+
+2020-10-01 20:44:33,292 - INFO - episode: 763, total reward: 158.0
+
+2020-10-01 20:44:33,339 - INFO - episode: 764, total reward: 132.0
+
+2020-10-01 20:44:33,384 - INFO - episode: 765, total reward: 127.0
+
+2020-10-01 20:44:33,436 - INFO - episode: 766, total reward: 141.0
+
+2020-10-01 20:44:33,482 - INFO - episode: 767, total reward: 129.0
+
+2020-10-01 20:44:33,528 - INFO - episode: 768, total reward: 132.0
+
+2020-10-01 20:44:33,578 - INFO - episode: 769, total reward: 141.0
+
+2020-10-01 20:44:33,638 - INFO - episode: 770, total reward: 124.0
+
+2020-10-01 20:44:33,682 - INFO - episode: 771, total reward: 124.0
+
+2020-10-01 20:44:33,730 - INFO - episode: 772, total reward: 130.0
+
+2020-10-01 20:44:33,772 - INFO - episode: 773, total reward: 119.0
+
+2020-10-01 20:44:33,818 - INFO - episode: 774, total reward: 125.0
+
+2020-10-01 20:44:33,863 - INFO - episode: 775, total reward: 127.0
+
+2020-10-01 20:44:33,903 - INFO - episode: 776, total reward: 108.0
+
+2020-10-01 20:44:33,950 - INFO - episode: 777, total reward: 131.0
+
+2020-10-01 20:44:33,989 - INFO - episode: 778, total reward: 112.0
+
+2020-10-01 20:44:34,031 - INFO - episode: 779, total reward: 120.0
+
+2020-10-01 20:44:34,073 - INFO - episode: 780, total reward: 121.0
+
+2020-10-01 20:44:34,120 - INFO - episode: 781, total reward: 139.0
+
+2020-10-01 20:44:34,161 - INFO - episode: 782, total reward: 127.0
+
+2020-10-01 20:44:34,205 - INFO - episode: 783, total reward: 124.0
+
+2020-10-01 20:44:34,247 - INFO - episode: 784, total reward: 124.0
+
+2020-10-01 20:44:34,294 - INFO - episode: 785, total reward: 134.0
+
+2020-10-01 20:44:34,340 - INFO - episode: 786, total reward: 127.0
+
+2020-10-01 20:44:34,382 - INFO - episode: 787, total reward: 119.0
+
+2020-10-01 20:44:34,423 - INFO - episode: 788, total reward: 116.0
+
+2020-10-01 20:44:34,467 - INFO - episode: 789, total reward: 120.0
+
+2020-10-01 20:44:34,507 - INFO - episode: 790, total reward: 111.0
+
+2020-10-01 20:44:34,546 - INFO - episode: 791, total reward: 110.0
+
+2020-10-01 20:44:34,590 - INFO - episode: 792, total reward: 125.0
+
+2020-10-01 20:44:34,637 - INFO - episode: 793, total reward: 136.0
+
+2020-10-01 20:44:34,682 - INFO - episode: 794, total reward: 129.0
+
+2020-10-01 20:44:34,728 - INFO - episode: 795, total reward: 129.0
+
+2020-10-01 20:44:34,771 - INFO - episode: 796, total reward: 123.0
+
+2020-10-01 20:44:34,815 - INFO - episode: 797, total reward: 133.0
+
+2020-10-01 20:44:34,854 - INFO - episode: 798, total reward: 110.0
+
+2020-10-01 20:44:34,902 - INFO - episode: 799, total reward: 134.0
+
+2020-10-01 20:44:34,947 - INFO - episode: 800, total reward: 120.0
+
+2020-10-01 20:44:34,987 - INFO - episode: 801, total reward: 129.0
+
+2020-10-01 20:44:35,034 - INFO - episode: 802, total reward: 137.0
+
+2020-10-01 20:44:35,083 - INFO - episode: 803, total reward: 141.0
+
+2020-10-01 20:44:35,135 - INFO - episode: 804, total reward: 149.0
+
+2020-10-01 20:44:35,174 - INFO - episode: 805, total reward: 120.0
+
+2020-10-01 20:44:35,223 - INFO - episode: 806, total reward: 142.0
+
+2020-10-01 20:44:35,276 - INFO - episode: 807, total reward: 156.0
+
+2020-10-01 20:44:35,318 - INFO - episode: 808, total reward: 129.0
+
+2020-10-01 20:44:35,366 - INFO - episode: 809, total reward: 139.0
+
+2020-10-01 20:44:35,407 - INFO - episode: 810, total reward: 121.0
+
+2020-10-01 20:44:35,452 - INFO - episode: 811, total reward: 132.0
+
+2020-10-01 20:44:35,498 - INFO - episode: 812, total reward: 126.0
+
+2020-10-01 20:44:35,542 - INFO - episode: 813, total reward: 128.0
+
+2020-10-01 20:44:35,587 - INFO - episode: 814, total reward: 131.0
+
+2020-10-01 20:44:35,639 - INFO - episode: 815, total reward: 143.0
+
+2020-10-01 20:44:35,690 - INFO - episode: 816, total reward: 143.0
+
+2020-10-01 20:44:35,744 - INFO - episode: 817, total reward: 155.0
+
+2020-10-01 20:44:35,800 - INFO - episode: 818, total reward: 163.0
+
+2020-10-01 20:44:35,846 - INFO - episode: 819, total reward: 133.0
+
+2020-10-01 20:44:35,897 - INFO - episode: 820, total reward: 145.0
+
+2020-10-01 20:44:35,950 - INFO - episode: 821, total reward: 141.0
+
+2020-10-01 20:44:36,007 - INFO - episode: 822, total reward: 142.0
+
+2020-10-01 20:44:36,078 - INFO - episode: 823, total reward: 177.0
+
+2020-10-01 20:44:36,127 - INFO - episode: 824, total reward: 143.0
+
+2020-10-01 20:44:36,174 - INFO - episode: 825, total reward: 132.0
+
+2020-10-01 20:44:36,227 - INFO - episode: 826, total reward: 151.0
+
+2020-10-01 20:44:36,282 - INFO - episode: 827, total reward: 154.0
+
+2020-10-01 20:44:36,342 - INFO - episode: 828, total reward: 174.0
+
+2020-10-01 20:44:36,394 - INFO - episode: 829, total reward: 149.0
+
+2020-10-01 20:44:36,447 - INFO - episode: 830, total reward: 152.0
+
+2020-10-01 20:44:36,509 - INFO - episode: 831, total reward: 172.0
+
+2020-10-01 20:44:36,568 - INFO - episode: 832, total reward: 172.0
+
+2020-10-01 20:44:36,627 - INFO - episode: 833, total reward: 170.0
+
+2020-10-01 20:44:36,695 - INFO - episode: 834, total reward: 190.0
+
+2020-10-01 20:44:36,758 - INFO - episode: 835, total reward: 180.0
+
+2020-10-01 20:44:36,830 - INFO - episode: 836, total reward: 200.0
+
+2020-10-01 20:44:36,892 - INFO - episode: 837, total reward: 170.0
+
+2020-10-01 20:44:36,960 - INFO - episode: 838, total reward: 191.0
+
+2020-10-01 20:44:37,017 - INFO - episode: 839, total reward: 163.0
+
+2020-10-01 20:44:37,087 - INFO - episode: 840, total reward: 196.0
+
+2020-10-01 20:44:37,158 - INFO - episode: 841, total reward: 197.0
+
+2020-10-01 20:44:37,222 - INFO - episode: 842, total reward: 177.0
+
+2020-10-01 20:44:37,289 - INFO - episode: 843, total reward: 188.0
+
+2020-10-01 20:44:37,352 - INFO - episode: 844, total reward: 179.0
+
+2020-10-01 20:44:37,417 - INFO - episode: 845, total reward: 185.0
+
+2020-10-01 20:44:37,484 - INFO - episode: 846, total reward: 200.0
+
+2020-10-01 20:44:37,543 - INFO - episode: 847, total reward: 173.0
+
+2020-10-01 20:44:37,606 - INFO - episode: 848, total reward: 185.0
+
+2020-10-01 20:44:37,672 - INFO - episode: 849, total reward: 182.0
+
+2020-10-01 20:44:37,730 - INFO - episode: 850, total reward: 169.0
+
+2020-10-01 20:44:37,796 - INFO - episode: 851, total reward: 191.0
+
+2020-10-01 20:44:37,849 - INFO - episode: 852, total reward: 157.0
+
+2020-10-01 20:44:37,913 - INFO - episode: 853, total reward: 179.0
+
+2020-10-01 20:44:37,972 - INFO - episode: 854, total reward: 171.0
+
+2020-10-01 20:44:38,033 - INFO - episode: 855, total reward: 178.0
+
+2020-10-01 20:44:38,091 - INFO - episode: 856, total reward: 169.0
+
+2020-10-01 20:44:38,149 - INFO - episode: 857, total reward: 164.0
+
+2020-10-01 20:44:38,215 - INFO - episode: 858, total reward: 188.0
+
+2020-10-01 20:44:38,283 - INFO - episode: 859, total reward: 191.0
+
+2020-10-01 20:44:38,342 - INFO - episode: 860, total reward: 182.0
+
+2020-10-01 20:44:38,400 - INFO - episode: 861, total reward: 170.0
+
+2020-10-01 20:44:38,466 - INFO - episode: 862, total reward: 183.0
+
+2020-10-01 20:44:38,532 - INFO - episode: 863, total reward: 187.0
+
+2020-10-01 20:44:38,601 - INFO - episode: 864, total reward: 194.0
+
+2020-10-01 20:44:38,662 - INFO - episode: 865, total reward: 173.0
+
+2020-10-01 20:44:38,720 - INFO - episode: 866, total reward: 173.0
+
+2020-10-01 20:44:38,785 - INFO - episode: 867, total reward: 192.0
+
+2020-10-01 20:44:38,849 - INFO - episode: 868, total reward: 193.0
+
+2020-10-01 20:44:38,909 - INFO - episode: 869, total reward: 167.0
+
+2020-10-01 20:44:38,978 - INFO - episode: 870, total reward: 195.0
+
+2020-10-01 20:44:39,042 - INFO - episode: 871, total reward: 187.0
+
+2020-10-01 20:44:39,111 - INFO - episode: 872, total reward: 200.0
+
+2020-10-01 20:44:39,173 - INFO - episode: 873, total reward: 173.0
+
+2020-10-01 20:44:39,236 - INFO - episode: 874, total reward: 180.0
+
+2020-10-01 20:44:39,304 - INFO - episode: 875, total reward: 190.0
+
+2020-10-01 20:44:39,375 - INFO - episode: 876, total reward: 195.0
+
+2020-10-01 20:44:39,446 - INFO - episode: 877, total reward: 200.0
+
+2020-10-01 20:44:39,508 - INFO - episode: 878, total reward: 175.0
+
+2020-10-01 20:44:39,576 - INFO - episode: 879, total reward: 187.0
+
+2020-10-01 20:44:39,642 - INFO - episode: 880, total reward: 183.0
+
+2020-10-01 20:44:39,708 - INFO - episode: 881, total reward: 181.0
+
+2020-10-01 20:44:39,767 - INFO - episode: 882, total reward: 173.0
+
+2020-10-01 20:44:39,826 - INFO - episode: 883, total reward: 165.0
+
+2020-10-01 20:44:39,888 - INFO - episode: 884, total reward: 181.0
+
+2020-10-01 20:44:39,946 - INFO - episode: 885, total reward: 168.0
+
+2020-10-01 20:44:39,998 - INFO - episode: 886, total reward: 174.0
+
+2020-10-01 20:44:40,068 - INFO - episode: 887, total reward: 200.0
+
+2020-10-01 20:44:40,135 - INFO - episode: 888, total reward: 175.0
+
+2020-10-01 20:44:40,199 - INFO - episode: 889, total reward: 176.0
+
+2020-10-01 20:44:40,270 - INFO - episode: 890, total reward: 199.0
+
+2020-10-01 20:44:40,332 - INFO - episode: 891, total reward: 180.0
+
+2020-10-01 20:44:40,388 - INFO - episode: 892, total reward: 167.0
+
+2020-10-01 20:44:40,444 - INFO - episode: 893, total reward: 166.0
+
+2020-10-01 20:44:40,510 - INFO - episode: 894, total reward: 188.0
+
+2020-10-01 20:44:40,567 - INFO - episode: 895, total reward: 164.0
+
+2020-10-01 20:44:40,628 - INFO - episode: 896, total reward: 174.0
+
+2020-10-01 20:44:40,687 - INFO - episode: 897, total reward: 172.0
+
+2020-10-01 20:44:40,749 - INFO - episode: 898, total reward: 172.0
+
+2020-10-01 20:44:40,806 - INFO - episode: 899, total reward: 167.0
+
+2020-10-01 20:44:40,869 - INFO - episode: 900, total reward: 174.0
+
+2020-10-01 20:44:40,932 - INFO - episode: 901, total reward: 176.0
+
+2020-10-01 20:44:40,989 - INFO - episode: 902, total reward: 166.0
+
+2020-10-01 20:44:41,043 - INFO - episode: 903, total reward: 151.0
+
+2020-10-01 20:44:41,097 - INFO - episode: 904, total reward: 152.0
+
+2020-10-01 20:44:41,153 - INFO - episode: 905, total reward: 157.0
+
+2020-10-01 20:44:41,203 - INFO - episode: 906, total reward: 149.0
+
+2020-10-01 20:44:41,252 - INFO - episode: 907, total reward: 138.0
+
+2020-10-01 20:44:41,303 - INFO - episode: 908, total reward: 143.0
+
+2020-10-01 20:44:41,349 - INFO - episode: 909, total reward: 128.0
+
+2020-10-01 20:44:41,399 - INFO - episode: 910, total reward: 146.0
+
+2020-10-01 20:44:41,449 - INFO - episode: 911, total reward: 139.0
+
+2020-10-01 20:44:41,495 - INFO - episode: 912, total reward: 130.0
+
+2020-10-01 20:44:41,540 - INFO - episode: 913, total reward: 123.0
+
+2020-10-01 20:44:41,586 - INFO - episode: 914, total reward: 129.0
+
+2020-10-01 20:44:41,630 - INFO - episode: 915, total reward: 127.0
+
+2020-10-01 20:44:41,675 - INFO - episode: 916, total reward: 123.0
+
+2020-10-01 20:44:41,718 - INFO - episode: 917, total reward: 120.0
+
+2020-10-01 20:44:41,759 - INFO - episode: 918, total reward: 116.0
+
+2020-10-01 20:44:41,802 - INFO - episode: 919, total reward: 126.0
+
+2020-10-01 20:44:41,838 - INFO - episode: 920, total reward: 107.0
+
+2020-10-01 20:44:41,877 - INFO - episode: 921, total reward: 110.0
+
+2020-10-01 20:44:41,917 - INFO - episode: 922, total reward: 112.0
+
+2020-10-01 20:44:41,955 - INFO - episode: 923, total reward: 106.0
+
+2020-10-01 20:44:41,995 - INFO - episode: 924, total reward: 115.0
+
+2020-10-01 20:44:42,033 - INFO - episode: 925, total reward: 107.0
+
+2020-10-01 20:44:42,071 - INFO - episode: 926, total reward: 109.0
+
+2020-10-01 20:44:42,110 - INFO - episode: 927, total reward: 104.0
+
+2020-10-01 20:44:42,148 - INFO - episode: 928, total reward: 105.0
+
+2020-10-01 20:44:42,191 - INFO - episode: 929, total reward: 113.0
+
+2020-10-01 20:44:42,231 - INFO - episode: 930, total reward: 113.0
+
+2020-10-01 20:44:42,247 - INFO - episode: 931, total reward: 42.0
+
+2020-10-01 20:44:42,285 - INFO - episode: 932, total reward: 105.0
+
+2020-10-01 20:44:42,321 - INFO - episode: 933, total reward: 99.0
+
+2020-10-01 20:44:42,363 - INFO - episode: 934, total reward: 120.0
+
+2020-10-01 20:44:42,397 - INFO - episode: 935, total reward: 96.0
+
+2020-10-01 20:44:42,435 - INFO - episode: 936, total reward: 104.0
+
+2020-10-01 20:44:42,472 - INFO - episode: 937, total reward: 105.0
+
+2020-10-01 20:44:42,510 - INFO - episode: 938, total reward: 105.0
+
+2020-10-01 20:44:42,551 - INFO - episode: 939, total reward: 111.0
+
+2020-10-01 20:44:42,589 - INFO - episode: 940, total reward: 106.0
+
+2020-10-01 20:44:42,630 - INFO - episode: 941, total reward: 113.0
+
+2020-10-01 20:44:42,667 - INFO - episode: 942, total reward: 104.0
+
+2020-10-01 20:44:42,706 - INFO - episode: 943, total reward: 107.0
+
+2020-10-01 20:44:42,741 - INFO - episode: 944, total reward: 99.0
+
+2020-10-01 20:44:42,779 - INFO - episode: 945, total reward: 106.0
+
+2020-10-01 20:44:42,816 - INFO - episode: 946, total reward: 105.0
+
+2020-10-01 20:44:42,851 - INFO - episode: 947, total reward: 100.0
+
+2020-10-01 20:44:42,890 - INFO - episode: 948, total reward: 107.0
+
+2020-10-01 20:44:42,926 - INFO - episode: 949, total reward: 103.0
+
+2020-10-01 20:44:42,964 - INFO - episode: 950, total reward: 107.0
+
+2020-10-01 20:44:43,000 - INFO - episode: 951, total reward: 100.0
+
+2020-10-01 20:44:43,037 - INFO - episode: 952, total reward: 105.0
+
+2020-10-01 20:44:43,073 - INFO - episode: 953, total reward: 106.0
+
+2020-10-01 20:44:43,117 - INFO - episode: 954, total reward: 123.0
+
+2020-10-01 20:44:43,152 - INFO - episode: 955, total reward: 100.0
+
+2020-10-01 20:44:43,194 - INFO - episode: 956, total reward: 119.0
+
+2020-10-01 20:44:43,231 - INFO - episode: 957, total reward: 109.0
+
+2020-10-01 20:44:43,274 - INFO - episode: 958, total reward: 119.0
+
+2020-10-01 20:44:43,311 - INFO - episode: 959, total reward: 108.0
+
+2020-10-01 20:44:43,351 - INFO - episode: 960, total reward: 117.0
+
+2020-10-01 20:44:43,387 - INFO - episode: 961, total reward: 100.0
+
+2020-10-01 20:44:43,426 - INFO - episode: 962, total reward: 115.0
+
+2020-10-01 20:44:43,467 - INFO - episode: 963, total reward: 115.0
+
+2020-10-01 20:44:43,503 - INFO - episode: 964, total reward: 102.0
+
+2020-10-01 20:44:43,539 - INFO - episode: 965, total reward: 99.0
+
+2020-10-01 20:44:43,577 - INFO - episode: 966, total reward: 107.0
+
+2020-10-01 20:44:43,615 - INFO - episode: 967, total reward: 105.0
+
+2020-10-01 20:44:43,652 - INFO - episode: 968, total reward: 104.0
+
+2020-10-01 20:44:43,692 - INFO - episode: 969, total reward: 112.0
+
+2020-10-01 20:44:43,734 - INFO - episode: 970, total reward: 124.0
+
+2020-10-01 20:44:43,775 - INFO - episode: 971, total reward: 113.0
+
+2020-10-01 20:44:43,812 - INFO - episode: 972, total reward: 109.0
+
+2020-10-01 20:44:43,851 - INFO - episode: 973, total reward: 111.0
+
+2020-10-01 20:44:43,890 - INFO - episode: 974, total reward: 110.0
+
+2020-10-01 20:44:43,929 - INFO - episode: 975, total reward: 110.0
+
+2020-10-01 20:44:43,967 - INFO - episode: 976, total reward: 107.0
+
+2020-10-01 20:44:44,005 - INFO - episode: 977, total reward: 105.0
+
+2020-10-01 20:44:44,047 - INFO - episode: 978, total reward: 108.0
+
+2020-10-01 20:44:44,087 - INFO - episode: 979, total reward: 106.0
+
+2020-10-01 20:44:44,127 - INFO - episode: 980, total reward: 113.0
+
+2020-10-01 20:44:44,170 - INFO - episode: 981, total reward: 112.0
+
+2020-10-01 20:44:44,212 - INFO - episode: 982, total reward: 104.0
+
+2020-10-01 20:44:44,253 - INFO - episode: 983, total reward: 111.0
+
+2020-10-01 20:44:44,295 - INFO - episode: 984, total reward: 112.0
+
+2020-10-01 20:44:44,335 - INFO - episode: 985, total reward: 108.0
+
+2020-10-01 20:44:44,376 - INFO - episode: 986, total reward: 106.0
+
+2020-10-01 20:44:44,417 - INFO - episode: 987, total reward: 105.0
+
+2020-10-01 20:44:44,456 - INFO - episode: 988, total reward: 111.0
+
+2020-10-01 20:44:44,494 - INFO - episode: 989, total reward: 107.0
+
+2020-10-01 20:44:44,536 - INFO - episode: 990, total reward: 111.0
+
+2020-10-01 20:44:44,578 - INFO - episode: 991, total reward: 108.0
+
+2020-10-01 20:44:44,618 - INFO - episode: 992, total reward: 105.0
+
+2020-10-01 20:44:44,657 - INFO - episode: 993, total reward: 100.0
+
+2020-10-01 20:44:44,701 - INFO - episode: 994, total reward: 114.0
+
+2020-10-01 20:44:44,741 - INFO - episode: 995, total reward: 107.0
+
+2020-10-01 20:44:44,780 - INFO - episode: 996, total reward: 104.0
+
+2020-10-01 20:44:44,820 - INFO - episode: 997, total reward: 112.0
+
+2020-10-01 20:44:44,858 - INFO - episode: 998, total reward: 104.0
+
+2020-10-01 20:44:44,902 - INFO - episode: 999, total reward: 117.0
+
